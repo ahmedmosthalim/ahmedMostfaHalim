@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahmedmosthalim" alt="ahmedmosthalim" /></a> </p>
 
-- 🔭 I’m currently working on [AAIT Company](https://aait.sa)
+- 🔭 I’m currently working on [Ayamedica](https://www.ayamedica.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmedmosthalim](https://github.com/ahmedmosthalim)
 
